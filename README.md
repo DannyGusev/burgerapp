@@ -1,3 +1,12 @@
+for making this app working :
+1. add hoc(higher order component) component - no need to import react just wraping component ;
+    const aux = (props) =>{
+        return props.children;
+    };
+    export default aux;
+2.npm install
+3.npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
