@@ -2,7 +2,7 @@ for making this app working :
 1. add hoc(higher order component) component - no need to import react just wraping component ;
     const aux = (props) =>{
         return props.children;
-    }
+    };
     export default aux;
 2.npm install
 3.npm start
