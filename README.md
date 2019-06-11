@@ -3,7 +3,7 @@ for making this app working :
     const aux = (props) =>{
         return props.children;
     };
-    export default aux;
+    export default aux;.
 2.npm install
 3.npm start
 
