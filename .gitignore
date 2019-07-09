@@ -2,7 +2,7 @@
 
 # dependencies
 burgerapp/
-/src/hoc 
+/src/hoc/Aux.js
 /node_modules
 /.pnp
 .pnp.js
