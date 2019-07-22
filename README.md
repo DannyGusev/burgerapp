@@ -1,9 +1,9 @@
 for making this app working :
-1. add hoc(higher order component) - no need to import react just wraping component ;
-    const aux = (props) =>{
+1. add Aux.js to hoc folder - no need to import react just wraping component:
+    "const aux = (props) =>{
         return props.children;
     };
-    export default aux;.
+    export default aux;". 
 2.npm install
 3.npm start
 
