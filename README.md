@@ -5,7 +5,8 @@ for making this app working :
     };
     export default aux;". 
 2.npm install
-3.npm start
+3.npm install react-router-dom
+4.npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
