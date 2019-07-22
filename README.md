@@ -1,4 +1,4 @@
-for making this app working :
+before "npm start" :
 1. add Aux.js to hoc folder - no need to import react just wraping component:
     "const aux = (props) =>{
         return props.children;
